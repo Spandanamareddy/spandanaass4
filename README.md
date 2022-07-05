@@ -23,4 +23,7 @@ ERD diagram
 Screenshots of Register and Login front end page
 ![Register](https://user-images.githubusercontent.com/103222225/176565644-5c4ad27c-4768-4209-82a3-39115ffe25db.jpeg)
 ![Login](https://user-images.githubusercontent.com/103222225/176565579-d4c14d55-417a-4f9e-b463-6f82ec7ef214.jpeg)
+![WhatsApp Image 2022-07-05 at 12 48 02 AM (2)](https://user-images.githubusercontent.com/103222225/177238249-a7448b0d-91d5-4b7a-9eee-af47ffa64d86.jpeg)
+![WhatsApp Image 2022-07-05 at 12 48 02 AM (1)](https://user-images.githubusercontent.com/103222225/177238296-83fbcf0d-caa1-46a7-851b-9ffe35325da9.jpeg)
+![WhatsApp Image 2022-07-05 at 12 48 02 AM](https://user-images.githubusercontent.com/103222225/177238322-355cfea1-cd68-4226-9c09-6e9f7186cce1.jpeg)
 
