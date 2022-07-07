@@ -37,6 +37,7 @@ I have created the user John when he logins in he will be directed to profile pa
 He can see what he has posted and post whatever content he want.
 ![WhatsApp Image 2022-07-05 at 12 48 02 AM](https://user-images.githubusercontent.com/103222225/177238322-355cfea1-cd68-4226-9c09-6e9f7186cce1.jpeg)
 ![Screenshot (28)](https://user-images.githubusercontent.com/103222225/177843489-e3ba48b0-70e3-4376-8d9c-650f3315a2ad.png)
+After deleting on of the post
 ![Screenshot (29)](https://user-images.githubusercontent.com/103222225/177843940-ec74a1fe-adaf-4679-b83a-e31be4aee604.png)
 
 
